@@ -16,4 +16,9 @@ public class RandomTest {
 	
 	driver.close();
 	}
+	
+	@Test
+	public void Test2Test(){
+	System.out.println("Test Successh");
+	}
 }
