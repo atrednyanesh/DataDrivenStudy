@@ -1,4 +1,4 @@
-package com.framework.DataDriven.DataDriverDrameworkTestNG;
+package com.framework.DataDriven.DataDrivenFrameworkTestNG;
 
 /**
  * Hello world!
